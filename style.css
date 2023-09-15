@@ -19,7 +19,7 @@ button{
 button:hover{
     transform: translateY(100px) ;
     transform: rotate(360deg);
-    transform: skewY(360deg);
+    /* transform: skewY(360deg); */
     /* transform: scale(1.2); */
     font-size: 2rem;
     color: antiquewhite;
